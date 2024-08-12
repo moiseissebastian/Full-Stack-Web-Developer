@@ -7,3 +7,8 @@ git init
 <br>git push -u origin main
 <hr>
 <br>Das próximas vezes não é necessário realizar o 'remote add origin'
+<hr>
+<br>Caso dê problema utilize os comandos abaixo
+<hr>
+<br>git pull --rebase origin main
+<br>git rebase --continue
